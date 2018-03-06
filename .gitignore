@@ -10,3 +10,5 @@ hw_05/data/result1.csv
 hw_05/data/oter_processed.csv
 hw_05/data/rfc_result.csv
 hw_05/data/test_processed.csv
+hw_05/data/test_processed.zip
+hw_05/data/rnd_forest_1750_predict.csv
